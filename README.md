@@ -1,5 +1,9 @@
 # GRIP_Task_3_Exploratory_Data_Analysis_Retail_Store
 
+DataSet: https://bit.ly/3i4rbWl
+
+Tool Used: Power BI  
+
 The data is imported into PowerBI using getdata functionality.   load and transform option is selected to do a quick analysis of the data loaded.  
 
 The column quality confirms that there are no error values in the data.   The datatype of all the columns is as required.  
